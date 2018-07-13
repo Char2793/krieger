@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">450338193480-6i35dlgfhdrqjdbo6jh5550dt4ul71o8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://kriger-4c939.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">450338193480</string>
+    <string name="google_api_key" translatable="false">AIzaSyACJVno6pIaqqsKHf9k55ktrRl-onWAJ2w</string>
+    <string name="google_app_id" translatable="false">1:450338193480:android:7975981fcba89007</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyACJVno6pIaqqsKHf9k55ktrRl-onWAJ2w</string>
+    <string name="google_storage_bucket" translatable="false">kriger-4c939.appspot.com</string>
+    <string name="project_id" translatable="false">kriger-4c939</string>
+</resources>

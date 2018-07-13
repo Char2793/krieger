@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Trial2Kriger</string>
+    <string name="or">OR</string>
+    <string name="Email">Email</string>
+    <string name="pass">Password</string>
+    <string name="phone">Mobile Number</string>
+    <string name="regis">REGISTER</string>
+    <string name="login">LOGIN</string>
+    <string name="Skip"><u>Skip this step</u></string>
+    <string name="hint">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="like">like</string>
+    <string name="com">comment</string>
+    <string name="shre">share</string>
+    <string name="signout">Signout</string>
+    <string name="wel">Welcome!</string>
+    <string name="textS">Party with friends! #enjoyed</string>
+    <string name="wel1">Welcome Tutorial!</string>
+    <string name="tut">1. Post photos,videos of yourself,with friends,etc.</string>
+    <string name="PostText">Write Something!</string>
+    <string name="likeS">2. Login and enjoy liking,commenting on photos,videos of your friends.</string>
+    <string name="ShareS">3. Login and share posts that you find interestin with your friends on your timeline.</string>
+    <string name="send">Send Code</string>
+    <string name="verify">Verify Code</string>
+    <string name="ver">Verification Code</string>
+    <string name="ph">login with mobile number</string>
+    <string name="upl">Upload</string>
+    <string name="submit_text">Upload image</string>
+</resources>

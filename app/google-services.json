@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "450338193480",
+    "firebase_url": "https://kriger-4c939.firebaseio.com",
+    "project_id": "kriger-4c939",
+    "storage_bucket": "kriger-4c939.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450338193480:android:7975981fcba89007",
+        "android_client_info": {
+          "package_name": "com.example.tushar.trial2kriger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450338193480-2md2h6vpbnoov5nlr6rrr5178n7m7pvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tushar.trial2kriger",
+            "certificate_hash": "5704cc683e6c1b923baaba78044384ead0115b86"
+          }
+        },
+        {
+          "client_id": "450338193480-6i35dlgfhdrqjdbo6jh5550dt4ul71o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACJVno6pIaqqsKHf9k55ktrRl-onWAJ2w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450338193480-6i35dlgfhdrqjdbo6jh5550dt4ul71o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
